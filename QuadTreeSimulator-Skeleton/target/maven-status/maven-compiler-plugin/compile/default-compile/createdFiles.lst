@@ -1,0 +1,16 @@
+quadtreesimulator\entity\property\Drawable.class
+quadtreesimulator\animator\QuadTreeAnimator$1.class
+quadtreesimulator\animator\QuadTreeAnimator.class
+quadtreesimulator\animator\AbstractAnimator.class
+utility\QuadTree$1.class
+quadtreesimulator\scene\AbstractScene.class
+quadtreesimulator\entity\property\Sprite.class
+quadtreesimulator\scene\ColorDetectionScene.class
+module-info.class
+quadtreesimulator\entity\FpsCounter$1.class
+utility\QuadTree$Node.class
+quadtreesimulator\entity\property\Entity.class
+quadtreesimulator\QuadTreeSimulator.class
+quadtreesimulator\entity\FpsCounter.class
+quadtreesimulator\entity\GenericEntity.class
+utility\QuadTree.class
