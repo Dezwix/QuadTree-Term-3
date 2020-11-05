@@ -102,10 +102,10 @@
 					<compress>2</compress>
 					<noHeaderFiles>true</noHeaderFiles>
 					<noManPages>true</noManPages>
-					<launcher>${jlink.application.name}</launcher>
-					<jlinkImageName>${jlink.folder.name}</jlinkImageName>
-					<jlinkZipName>${jlink.zip.name}</jlinkZipName>
-					<mainClass>${mainclass.path}</mainClass>
+					<launcher>JavaFX-QuadTree</launcher>
+					<jlinkImageName>JavaFX-QuadTree</jlinkImageName>
+					<jlinkZipName>JavaFX-QuadTree</jlinkZipName>
+					<mainClass>quadtreesimulator.QuadTreeSimulator</mainClass>
 				</configuration>
 			</plugin>
 			<plugin>
